@@ -25,3 +25,7 @@ def helper(k):
         return 'INSOMNIA'
     else:
         return prev
+
+
+if __name__ == '__main__':
+    main()
